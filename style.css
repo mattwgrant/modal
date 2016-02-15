@@ -1,0 +1,18 @@
+.modal-outer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background-color: rgba(0,0,0,0.5);
+  height: 100%;
+  width: 100%;
+  display: none;
+}
+
+.modal-inner {
+  text-align: center;
+
+}
+
+form {
+  width: 500px;
+}
