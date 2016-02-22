@@ -1,13 +1,13 @@
 $(document).ready(function(){
-  $(".modal-wrapper").click(function(e){
-    var link_element = $(e.currentTarget);
+  $(".modal-link").click(function(e){
+    // var link_element = $(e.currentTarget);
 
-    var  = link_element.class(".model-link")
+    // var  = link_element.class(".model-link")
 
-    var pop_up = $("#modal");
+    // var pop_up = $("#modal");
 
-    p.attr("src", .model-link);
-    centerImage(pop_up);
+    // p.attr("src", .model-link);
+    // centerImage(pop_up);
 
     $(".modal-outer").show();
       
